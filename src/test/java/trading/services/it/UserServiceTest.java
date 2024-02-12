@@ -1,9 +1,10 @@
-package trading.services;
+package trading.services.it;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import trading.models.User;
+import trading.services.UserService;
 
 import java.util.List;
 
